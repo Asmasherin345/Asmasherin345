@@ -11,9 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<embed src="file:///D:/New%20folder/ECC-CSA-Certificate.pdf" type="application/pdf" width="100%" height="600px" />
 
 </div>
 
