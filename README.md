@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<embed src="file:///D:/New%20folder/ECC-CSA-Certificate.pdf" type="application/pdf" width="100%" height="600px" />
+<img src="C:\Users\Lenovo\OneDrive\Pictures\Screenshots&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
