@@ -11,10 +11,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-<div>
-<img src="C:\Users\Lenovo\OneDrive\Pictures\Screenshots&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div class="certificate">
+  <img
+    src="C:\Users\Lenovo\OneDrive\Pictures\Screenshots\ECC-CSA certificate.png"
 
+    style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;"
+  />
+  <p>CSA Certification – July 2025</p>
 </div>
+
 
 ## Projects
 - Log Collection and Analysis using Splunk - Designed and implemented a log monitoring system
